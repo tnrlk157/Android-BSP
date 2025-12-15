@@ -16,11 +16,6 @@
 ## Overview
 This Android Board Support Package (BSP) provides the necessary software components to support Android OS on the target hardware platform. It includes kernel modifications, device drivers, hardware abstraction layers (HAL), and platform-specific configurations.
 
-## Supported Hardware
-- **Target Board**: [Board Name/Model]
-- **SoC**: [Processor/System-on-Chip]
-- **Android Version**: [Android Version, e.g., Android 13]
-- **Kernel Version**: [Linux Kernel Version, e.g., 5.10]
 
 ## Repository Structure
 ```
